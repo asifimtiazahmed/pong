@@ -1,0 +1,16 @@
+The main element of learning from this game is the canvas tag in HTML
+the canvas.getContext('2d');
+the canvas.fillStyle = 'color';
+the canvas.rect(screenXaxis, screenYaxis, objectWidth, objectHeight);
+the creating a circle method
+and fillText
+
+Also I learned how to incorporate sounds into DOM and pick it from JS
+
+
+NEXT: Update
+I can create a start menu
+I can add more sounds
+I can have level of difficulty in the game (incorporate levels, incrementing ball speed every next level & increasing reaction time for computer paddle)
+I can have option for keyboard for 2 players
+I can randomly generate bonuses from the net to give the paddle more power or take power.
